@@ -1,2 +1,4 @@
 # portfolio
-this project for practice build Github page
+This project for practice build Github page
+<br> <hr>
+This portfolio included: 
